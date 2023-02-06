@@ -1,7 +1,7 @@
 
 # This is a basic workflow to help you get started with Actions
 
-name: feature-unittest.yml
+name: feature-unittest
 
 # Controls when the workflow will run
 on:
